@@ -26,8 +26,8 @@ That's why I came up with a challenge for myself: a project in each of the langu
 | #   | Language | Project | Status | Others |
 | --- | ------------ | -------------------------------- | ------ | --------------------------------------------------------------------------------------- |
 | 1   | **Swift**    |[EduNote]()| ✅ | Want to add more functions to EduNote and try iOS development (when by a new mac) |
-| 2   | **Dart**     |  | 🔜 |  |
-| 3   | **Java**     |  |  |  |
+| 2   | **Dart**     |  | ⚠️ | Postponed |
+| 3   | **Java**     |  | 🔜 | Coming soon! |
 | 4   | **Kotlin**   |  |  |  |
 | 5   | **C#**       |  |  |  |
 | 6   | **Go**       |  |  |  |

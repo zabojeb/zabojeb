@@ -31,7 +31,7 @@ That's why I came up with a challenge for myself: a project in each of the langu
 | 4   | **Kotlin**   |  |  |  |
 | 5   | **C#**       |  |  |  |
 | 6   | **Go**       |  |  |  |
-| 7   | **TypeScript**|  |  |  |
+| 7   | **TypeScript**| [Personal Blog on S3](https://github.com/zabojeb/blaknot) synced with [Plugin for Obsidian](https://github.com/zabojeb/s3-for-all) | ✅ | I like this project! It's complex and useful |
 | 8   | **Rust**     |  |  |  |
 | 9   | **Scala**    |  |  |  |
 | 10  | **Elixir**   |  |  |  |

@@ -12,7 +12,7 @@ where I document my progress, share experiences, and track achievements.
 - C++
 - Algorithms and data structures
 - Mathematics and data analysis
-- Well handle the Linux/MacOS terminal
+- Well handle the Unix terminal
 - Can make funny photos :)
 
 ## Goal
@@ -50,10 +50,10 @@ You can follow me, my achievements, projects, and learning progress on my profil
 
 Feel free to reach out to discuss ideas, suggestions, or just exchange experiences.
 
+📟 **[Telegram](https://t.me/zabojeb) - I prefer this contact method**
+
 📫 [Email](mailto:zabojeb@bk.ru)
 
-🐦 [Twitter](https://twitter.com/zabojeb)
-
-📟 [Telegram](https://t.me/zabojebra) or [Additional Telegram](https://t.me/zabojeb)
+🐦 [Twitter (X)](https://twitter.com/zabojeb)
 
 Thanks for visiting! Let's make code better again together 🚀

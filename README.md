@@ -7,7 +7,8 @@ where I document my progress, share experiences, and track achievements.
 
 ## Core Skills
 
-- HTML + CSS + JavaScript and frameworks
+- HTML + CSS + JavaScript
+- React JS
 - Python
 - C++
 - Algorithms and data structures

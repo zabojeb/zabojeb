@@ -55,6 +55,7 @@
 [![lichess-blitz](https://lichess-shield.vercel.app/api?username=zabojeb&format=blitz)](https://lichess.org/@/zabojeb/perf/blitz)
 
 ### I blogging
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itusovik)
 [![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/zabojeb)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/u/zabojeb)
 [![S3 Blog](https://img.shields.io/badge/S3_Blog-blue?style=for-the-badge&logo=barmenia&logoColor=white)](https://zabojeb.github.io/blaknot)

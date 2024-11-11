@@ -51,9 +51,6 @@
 [![lichess-rapid](https://lichess-shield.vercel.app/api?username=jebzabo&format=rapid)](https://lichess.org/@/jebzabo/perf/rapid)
 [![lichess-blitz](https://lichess-shield.vercel.app/api?username=jebzabo&format=blitz)](https://lichess.org/@/jebzabo/perf/blitz)
 
-[![lichess-rapid](https://lichess-shield.vercel.app/api?username=zabojeb&format=rapid)](https://lichess.org/@/zabojeb/perf/rapid)
-[![lichess-blitz](https://lichess-shield.vercel.app/api?username=zabojeb&format=blitz)](https://lichess.org/@/zabojeb/perf/blitz)
-
 ### I blogging
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itusovik)
 [![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/zabojeb)

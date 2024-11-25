@@ -4,6 +4,8 @@
 
 ### I'm an aspiring developer looking to master various programming languages and create a project in each. Welcome to my code corner, where I document my progress, share experiences, and track achievements!
 
+### GPG: [1764f2d4e6187b05068d8abc95c668b838b80d74](https://keyoxide.org/1764f2d4e6187b05068d8abc95c668b838b80d74)
+
 # Skills
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

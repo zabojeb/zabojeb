@@ -7,6 +7,8 @@
 
 i am **backend** (most of the time) developer, **cybersecurity** enthusiast and **ML** researcher
 
+briefly about me - [official.zabojeb.ru](https://official.zabojeb.ru)
+
 ![funny gif haha it is me](./gifs/internet.gif)
 
 my skills

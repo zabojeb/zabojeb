@@ -11,6 +11,11 @@ briefly about me - [official.zabojeb.ru](https://official.zabojeb.ru)
 
 ![funny gif haha it is me](./gifs/internet.gif)
 
+my stats
+
+[![Codeforces](https://cp-logo.vercel.app/codeforces/zabojeb?logo=false)](https://codeforces.com/profile/zabojeb)
+[![Leetcode](https://cp-logo.vercel.app/leetcode/zabojeb?logo=true)](https://leetcode.com/u/zabojeb/)
+
 my skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)

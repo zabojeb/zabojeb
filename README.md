@@ -13,8 +13,9 @@ briefly about me - [official.zabojeb.ru](https://official.zabojeb.ru)
 
 my stats
 
-[![Codeforces](https://cp-logo.vercel.app/codeforces/zabojeb?logo=false)](https://codeforces.com/profile/zabojeb)
-[![Leetcode](https://cp-logo.vercel.app/leetcode/zabojeb?logo=true)](https://leetcode.com/u/zabojeb/)
+[![Codeforces](https://cp-logo.vercel.app/codeforces/zabojeb?logo=true)](https://codeforces.com/profile/zabojeb)
+[![Leetcode](https://cp-logo.vercel.app/leetcode/zabojeb?logo=true)](https://leetcode.com/u/zabojeb)
+[![Atcoder](https://cp-logo.vercel.app/atcoder/zabojeb?logo=true)](https://atcoder.jp/users/zabojeb)
 
 my skills
 
